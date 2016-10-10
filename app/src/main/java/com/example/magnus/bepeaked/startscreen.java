@@ -9,5 +9,7 @@ public class startscreen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_startscreen);
+
+        // arne han er for cool
     }
 }
