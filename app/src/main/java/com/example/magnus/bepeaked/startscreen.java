@@ -11,5 +11,7 @@ public class startscreen extends AppCompatActivity {
         setContentView(R.layout.activity_startscreen);
 
         // arne han er for cool
+        //yes
+
     }
 }
