@@ -12,6 +12,6 @@ public class startscreen extends AppCompatActivity {
 
         // arne han er for cool
         //yes
-
+        //måske
     }
 }
